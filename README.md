@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Leiver Moreno</h1>
 <h3 align="center">A passionate Self-taught Web Developer</h3>
 
-<p>I'm a problem solver, and web delopver who never stops learning. I am passionate about learning Back-End Technologies, Blockchain, Data Science and Cloud Computing.</p>
+<p>I'm a problem solver, and web delopver who never stops learning. I am passionate about learning Back-End Technologies, Blockchain, and Cloud Computing.</p>
 
 <p>Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</p>
 
 - 🔭 I’m currently working on **sharpening my problem solving skills in Python and Javascript**
 - 🔎 I'm open to **Intern or Junior Developer offers**
 - 🌱 I’m currently learning **Web Scraping**
-- 💡 I’m curious about **Blockchain and Data Science**
+- 💡 I’m curious about **Blockchain and Cloud Computing**
 - 📫 How to reach me **leivermoreno@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
